@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SSM_Hotel_03_SSM"
+  id="myeclipse.1499390027106"
+  context-root="/SSM_Hotel_01_Project"
+  j2ee-spec="1.7"
+  archive="SSM_Hotel_03_SSM.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
